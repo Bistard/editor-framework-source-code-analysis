@@ -1,0 +1,3 @@
+[submodule "monaco-editor"]
+	path = monaco-editor
+	url = https://github.com/Bistard/monaco-editor-source-code-analysis.git
